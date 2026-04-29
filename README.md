@@ -104,10 +104,3 @@ The error is also silently written to `flight_errors.log`:
 - Email or SMS alerts for flight status changes
 
 ---
-
-## Author
-
-**Sergio Nunez**  
-📧 sergiowork714@gmail.com  
-🔗 [linkedin.com/in/sergio-nunez](https://linkedin.com/in/sergio-nunez)  
-🐙 [github.com/MaxsCaretaker](https://github.com/MaxsCaretaker)
