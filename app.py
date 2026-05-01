@@ -4,6 +4,8 @@ import logging
 import sys
 import os
 
+app = Flask(__name__)
+
 logging.basicConfig(
     stream=sys.stdout,
     level=logging.ERROR,
