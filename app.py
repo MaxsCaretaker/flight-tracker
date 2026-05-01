@@ -2,6 +2,7 @@ from flask import Flask, request, jsonify, render_template
 import requests
 import logging
 import sys
+import os
 
 logging.basicConfig(
     stream=sys.stdout,
