@@ -1,13 +1,10 @@
 from flask import Flask, request, jsonify, render_template
 import requests
 import logging
-import os
-
-
-app = Flask(__name__)
+import sys
 
 logging.basicConfig(
-    filename="flight_errors.log",
+    stream=sys.stdout,
     level=logging.ERROR,
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
