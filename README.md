@@ -4,6 +4,8 @@ A Python app that fetches real-time flight data from the AviationStack API. Sear
 
 ---
 
+🌐 Live demo: https://flight-tracker-nsh6.onrender.com
+
 ## Features
 
 - Search any flight by IATA code (e.g. `AA100`)
