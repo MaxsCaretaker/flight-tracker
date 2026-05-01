@@ -2,9 +2,7 @@ from flask import Flask, request, jsonify, render_template
 import requests
 import logging
 import os
-from dotenv import load_dotenv
 
-load_dotenv()
 
 app = Flask(__name__)
 
